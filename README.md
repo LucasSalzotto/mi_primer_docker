@@ -9,5 +9,5 @@ Esta es una simple aplicación de Flask con dos rutas: "home" y "contacto".
 2. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/LucasSalzotto/mi_flask_docker.git
+   git clone https://github.com/LucasSalzotto/mi_primer_docker.git
    cd mi_flask_docker
